@@ -4,7 +4,7 @@
 
 2. A branch lets you work on a feture without affecting main.
 
-3. A maintainer decides which changes are acepted.
+3. A maintainer decides which changes are accepted.
 
 4. A contributor sends changes using a pull reqeust.
 
